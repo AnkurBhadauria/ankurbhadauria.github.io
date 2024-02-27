@@ -1,0 +1,54 @@
+|| GOAL => EXPERT ON CODEFORCES || DEADLINE => JUNE ||
+
+TIME TABLE START🌴🍃
+ideoltable
+9:00am-2:00pm codeforces  5hrs📍 7q
+2:00pm-4:00pm sleep	  cool😴
+4:00pm-9:00pm codeforces  5hrs🪴 7q
+10:00pm-9:00am codeforces 12hrs 🌳 16q
+productivity
+
+max 40 min per question 
+speed force💹
+
+30 codeforces
+40 leetcode
+sheet ko class me chodo phale🎞️🎞️🎋
+week 1 28jan-3feb
+
+target = 210q on cf
+topic - numbertheory and bitmanipulatijon
+
+string z algorithm,kmp algorithm,rabinkarp algorithm,trie
+USE STACK  whenever the involvement of  find the larger or smallest element of next or previous element happen
+PERMUTATION Whenever in case of printing always print the conditional first and then rest of remaning
+SUM OF ELEMENT [L,R] (L+R)*(R-L+1)/2;
+PREFIX FOR AND
+current d1000 lets do this shit after 5months 
+Simple liner dp are important, subarray or cout the pairs etc 
+IN PAIR COUNTING i==j  || Nc2 || n*(n-1)/2 ||  (i-1)+(i)+(i+1)+(i+2) -> - <-FOR THE SAME KIND IG
+If operation on whole array think about the GCD 🤡
+If finding any index related thing in sorted array alway think first upper bound or lowerbound
+Think about the even odd for case >1 or >2 or <5 etc..
+For query first check Is the order matter for the answer or not
+For Tree or Graph if somewhere distance terms smells try thinking bfs or dijisktra.
+IF two or three nums are given find out the relation between them.
+no of digit  =  log10(N)+1
+find max or min value = andha binary search
+lamda function format 
+	auto ok = [&](int parameters) -> return value {
+			// kuch karo be
+	};
+
+Terniary Search
+	m1 = l+(r-l)/3;
+	m2 = r-(r-l)/3;
+
+Bitmanipulation property
+a+b = a|b + a&b
+a|b = a^b + a&b
+put braces around the bitwise operation
+
+break and check the value of integer for particular cases 
+you need to become more specific about the target 
+try to use multiset in two pointers
