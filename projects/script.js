@@ -20,7 +20,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Projects | Portfolio Dhanraj Chaurasia";
+        document.title = "Projects | Portfolio Ankur Bhadauria";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
