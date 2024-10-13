@@ -67,7 +67,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Dhanraj Chaurasia";
+        document.title = "Experience | Portfolio Ankur Bhadauria";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
